@@ -12,22 +12,22 @@
         android:id="@+id/edit_text_user_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/username"
         android:autofillHints="@string/username"
+        android:hint="@string/username"
         android:inputType="text" />
 
     <EditText
         android:id="@+id/edit_text_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/password"
         android:autofillHints="@string/password"
+        android:hint="@string/password"
         android:inputType="textPassword" />
 
     <Button
+        android:id="@+id/button_confirm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/button_confirm"
-        android:text="@string/confirm"/>
+        android:text="@string/confirm" />
 
 </LinearLayout>
