@@ -7,4 +7,6 @@
     <string name="confirm">Confirm</string>
     <string name="welcome_screen">Welcome Screen</string>
     <string name="ok">OK</string>
+    <string name="settings_screen">Settings Screen</string>
+    <string name="settings">Settings</string>
 </resources>
